@@ -1,6 +1,6 @@
-package com.telusko.springecom.repo;
+package com.rwt.springecom.repo;
 
-import com.telusko.springecom.model.Order;
+import com.rwt.springecom.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

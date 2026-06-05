@@ -1,4 +1,4 @@
-package com.telusko.springecom.model;
+package com.rwt.springecom.model;
 
 import jakarta.persistence.*;
 import jakarta.persistence.Entity;

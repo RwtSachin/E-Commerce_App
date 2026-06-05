@@ -1,14 +1,14 @@
-package com.telusko.springecom.service;
+package com.rwt.springecom.service;
 
-import com.telusko.springecom.model.Order;
-import com.telusko.springecom.model.OrderItem;
-import com.telusko.springecom.model.Product;
-import com.telusko.springecom.model.dto.OrderItemRequest;
-import com.telusko.springecom.model.dto.OrderItemResponse;
-import com.telusko.springecom.model.dto.OrderRequest;
-import com.telusko.springecom.model.dto.OrderResponse;
-import com.telusko.springecom.repo.OrderRepo;
-import com.telusko.springecom.repo.ProductRepo;
+import com.rwt.springecom.model.Order;
+import com.rwt.springecom.model.OrderItem;
+import com.rwt.springecom.model.Product;
+import com.rwt.springecom.model.dto.OrderItemRequest;
+import com.rwt.springecom.model.dto.OrderItemResponse;
+import com.rwt.springecom.model.dto.OrderRequest;
+import com.rwt.springecom.model.dto.OrderResponse;
+import com.rwt.springecom.repo.OrderRepo;
+import com.rwt.springecom.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

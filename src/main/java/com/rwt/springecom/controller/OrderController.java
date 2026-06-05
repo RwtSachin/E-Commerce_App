@@ -1,8 +1,8 @@
-package com.telusko.springecom.controller;
+package com.rwt.springecom.controller;
 
-import com.telusko.springecom.model.dto.OrderRequest;
-import com.telusko.springecom.model.dto.OrderResponse;
-import com.telusko.springecom.service.OrderService;
+import com.rwt.springecom.model.dto.OrderRequest;
+import com.rwt.springecom.model.dto.OrderResponse;
+import com.rwt.springecom.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

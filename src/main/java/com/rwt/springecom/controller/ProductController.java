@@ -1,7 +1,7 @@
-package com.telusko.springecom.controller;
+package com.rwt.springecom.controller;
 
-import com.telusko.springecom.model.Product;
-import com.telusko.springecom.service.ProductService;
+import com.rwt.springecom.model.Product;
+import com.rwt.springecom.service.ProductService;
 import jakarta.annotation.Nullable;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,7 @@
-package com.telusko.springecom.service;
+package com.rwt.springecom.service;
 
-import com.telusko.springecom.model.Product;
-import com.telusko.springecom.repo.ProductRepo;
+import com.rwt.springecom.model.Product;
+import com.rwt.springecom.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

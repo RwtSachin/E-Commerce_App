@@ -1,4 +1,4 @@
-package com.telusko.springecom.model;
+package com.rwt.springecom.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;

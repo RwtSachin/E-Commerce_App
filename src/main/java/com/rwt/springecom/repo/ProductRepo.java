@@ -1,6 +1,6 @@
-package com.telusko.springecom.repo;
+package com.rwt.springecom.repo;
 
-import com.telusko.springecom.model.Product;
+import com.rwt.springecom.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

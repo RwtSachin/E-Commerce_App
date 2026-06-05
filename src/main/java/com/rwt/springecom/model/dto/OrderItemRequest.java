@@ -1,4 +1,4 @@
-package com.telusko.springecom.model.dto;
+package com.rwt.springecom.model.dto;
 
 public record OrderItemRequest(
         int productId,
